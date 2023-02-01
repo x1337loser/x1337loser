@@ -15,5 +15,5 @@
     <img src="https://img.shields.io/youtube/channel/subscribers/UCINg7ptOzX3bcFKZEbfLqWQ?color=FF0000&label=Youtube&logo=Youtube&style=for-the-badge" />
   </a>
 </p>
-<h4 align="center"><img src="https://github-readme-stats.vercel.app/api?username=x1337loser&show_icons=true&theme=tokyonightl" /></h4>
+<h4 align="center"><img src="https://github-readme-stats.vercel.app/api?username=x1337loser&show_icons=true&theme=tokyonight" /></h4>
 
