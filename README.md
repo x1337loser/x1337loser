@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="http://nirob4tech.blogpost.com/" target="_blank">
-    <img src="https://img.shields.io/website?label=nirob4tech.blogpost.com/&style=for-the-badge&url=http://nirob4tech.blogpost.com/" />
+  <a href="http://nirob4tech.blogpsot.com/" target="_blank">
+    <img src="https://img.shields.io/website?label=nirob4tech.blogspot.com/&style=for-the-badge&url=http://nirob4tech.blogspot.com/" />
   </a>
 <a href="https://twitter.com/0xnirob" target="_blank">
     <img src="https://img.shields.io/twitter/follow/0xnirob?label=Twitter&color=00acee&logo=twitter&style=for-the-badge" /></a>
