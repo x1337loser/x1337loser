@@ -2,8 +2,8 @@
   <a href="http://nirob4tech.blogspot.com/" target="_blank">
     <img src="https://img.shields.io/website?label=nirob4tech.blogspot.com/&style=for-the-badge&url=http://nirob4tech.blogspot.com/" />
   </a>
-<a href="https://twitter.com/0xnirob" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/0xnirob?label=Twitter&color=00acee&logo=twitter&style=for-the-badge" /></a>
+<a href="https://twitter.com/x1337loser" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/x1337loser?label=Twitter&color=00acee&logo=twitter&style=for-the-badge" /></a>
 
 <a href="https://github.com/x1337loser" target="_blank">
     <img src="https://img.shields.io/github/followers/x1337loser?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" /></a>
